@@ -1,5 +1,6 @@
 # tensorflow
 用于管理深度学习神经网络相关学习的笔记代码,该project是基于TensorFlow example的二次开发
+
 数据：
   Mnist_data是官方的mnist数据库
   images 中存放待预测的图片，目前可以放28*28的灰度图或者rgb图，图片的命名格式为 标准数字_序号
