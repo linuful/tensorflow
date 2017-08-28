@@ -13,6 +13,8 @@
   
   fully_connected_feed.py 为全连接模型
   
+  mnist_with_summaries.py 为tensorboard相关演示，tensorboard启动方式：tensorboard --logdir=./logs
+  
   mnist_cnn.py MNIST的CNN模型实现
   
   mnist_d2pic.py 将MNIST数据集还原成图片
