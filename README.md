@@ -29,3 +29,17 @@
   
   state_update.py 状态机演示
   
+
+
+//code operator
+
+1. source activate tensorflow
+
+2. pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp35-cp35m-linux_x86_64.whl
+
+3. pyton demo.py
+
+4. tensorboard --logdir=/tmp/tensorflow/mnist/logs/mnist_with_summaries
+
+5. source deactivate
+
