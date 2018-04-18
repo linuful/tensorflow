@@ -1,14 +1,15 @@
-#tensorflow
+tensorflow
+=====
 >用于管理深度学习神经网络相关学习的笔记代码,该project是基于TensorFlow example的二次开发
 
-##数据：
-
+数据
+-----
   `Mnist_data`是官方的mnist数据库
   
   `images` 中存放待预测的图片
   
-##代码
-=========
+代码
+-----
 >以下代码基于TensorFlow1.2 Python 3.5
 
   `demo.py` 为调试函数用的文件
@@ -33,8 +34,8 @@
   
 
 
-##tensorflow 使用方法
-
+tensorflow 使用方法
+----
 1. source activate tensorflow
 
 2. pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp35-cp35m-linux_x86_64.whl
